@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi 👋, I'm Jacob!
+
+An aspiring full stack developer, with a focus on the backend. I'm currently looking for work in the Las Vegas, NV area.
+
+I'm dedicated to learning and sharing my knowledge with others. You may find everything that I've worked on over the past year on my [website](https://ejacobg.com/).
+
+🧰 My toolkit includes Go/Golang, C#, and JavaScript.
+
+🔭 I’m currently brushing up on LeetCode problems.
+
+🌱 I’m currently learning C#, microservices, and Kubernetes.
 
 <!--
 **ejacobg/ejacobg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
